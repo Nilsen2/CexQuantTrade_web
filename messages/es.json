@@ -1,0 +1,487 @@
+{
+  "Metadata": {
+    "stitle": "Plataforma de Trading Cuantitativo con IA para Criptomonedas | AMCC'",
+    "sdescription": "AMCC | Trading Cuantitativo con IA sin Configuración | Trading automático con un solo clic",
+    "title": "AMCC | Trading cuantitativo con IA sin configuración | Conecta Binance, Coinbase, OKX y más con 1 clic",
+    "description": "AMCC es una plataforma de trading cuantitativo de nueva generación impulsada por agentes de IA. Admite conexión API con un solo clic a Binance, OKX y Bybit. Supervisa datos on-chain e índices de miedo para trading automático 24/7. Totalmente segura, sin custodia de fondos.",
+    "Keywords": "Trading con IA, AMCC, Bot de trading confiable, Bot Binance IA, Agente IA automático, Monitoreo on-chain, Estrategia índice de miedo, Trading cripto automático"
+  },
+  "ErrMsg": {
+    "sign1": "Por favor, acepta los Términos de Servicio y la Política de Privacidad",
+    "sign2": "Ocurrió un error durante el registro",
+    "sign3": "Ocurrió un error inesperado. Inténtalo de nuevo.",
+    "sign4": "Ocurrió un error durante el inicio de sesión",
+    "sign5": "Correo electrónico o contraseña incorrectos"
+  },
+  "PubDesc": {
+    "TSTB": "Piensa mejor, opera con mayor eficiencia",
+    "HCKB": "¿Cómo crear una clave API en Binance?",
+    "HCKO": "¿Cómo crear una clave API en OKX?",
+    "back2home": "Volver a inicio",
+    "FirstName": "Nombre",
+    "LastName": "Apellido",
+    "EmailAddress": "Correo electrónico",
+    "Password": "Contraseña",
+    "ConfirmPassword": "Confirmar contraseña",
+    "Welcome Back": "Bienvenido de nuevo",
+    "Sign In": "Iniciar sesión",
+    "Sign Up": "Registrarse",
+    "Success": "Éxito",
+    "Failed": "Fallido",
+    "Pending": "Pendiente",
+    "Refresh": "Actualizado con éxito",
+    "Saved": "Guardado con éxito",
+    "PrivatePlan": "Si necesitas un plan privado personalizado, <purple>contáctanos</purple>.",
+    "Warring": "Aviso",
+    "ChargeFinishMsg": "Si ya completaste la transferencia, el sistema debe confirmarla en la blockchain. Espera de 3 a 15 minutos.",
+    "Confirmed": "Confirmado",
+    "Cancel": "Cancelar",
+    "Confirm": "Confirmar"
+  },
+  "Navbar": {
+    "Home": "Inicio",
+    "BTC Forecast": "Pronóstico BTC",
+    "Top Rank": "Estrategias",
+    "Pricing": "Planes",
+    "FAQ": "Preguntas frecuentes",
+    "How It Works": "Cómo funciona",
+    "Sign In": "Iniciar sesión",
+    "Sign Up": "Registrarse",
+    "PRODUCT": "Producto",
+    "COMPANY": "Empresa",
+    "RESOURCES": "Recursos",
+    "Terms of Service": "Términos de Servicio",
+    "Privacy Policy": "Política de Privacidad",
+    "Contact Us": "Contacto"
+  },
+  "Home": {
+    "AI-OPTIMIZED MODELS": "MODELOS OPTIMIZADOS CON IA",
+    "RISK-AWARE EXECUTION": "EJECUCIÓN CON CONCIENCIA DE RIESGO",
+    "LIVE ANALYTICS DASHBOARD": "PANEL DE ANÁLISIS EN TIEMPO REAL",
+    "hero_title": "Trading <purple>Quant</purple> de Criptomonedas con IA en <teal>Segundos</teal>",
+    "hero_desc": "Diseña, optimiza y ejecuta estrategias cripto con precisión impulsada por IA.",
+    "Start Trading Now": "Comienza a operar ahora",
+    "HOT": "DESTACADO",
+    "Real-Time Execution": "Ejecución en tiempo real",
+    "AI-Verified & Secure": "Verificado por IA y seguro",
+    "SeamlessConfiguration": "Configuración sencilla, lanzamiento instantáneo",
+    "Struggling": "¿Tienes problemas con <purple>estos puntos</purple>?",
+    "ThatsWhy": "Por eso creamos {name} — Tu atajo instantáneo hacia un trading más inteligente",
+    "pt1": "¿Demasiado complejo para empezar?",
+    "pt1desc": "¿Quieres operar mejor pero no sabes cómo construir una estrategia?",
+    "pt2": "¿Perdido entre términos técnicos?",
+    "pt2desc": "Indicadores, APIs y backtesting — ¿suena abrumador?",
+    "pt3": "¿No sabes en quién confiar?",
+    "pt3desc": "Modelos de IA, señales o influencers — ¿qué funciona realmente?",
+    "pt4": "¿Desearías que fuera más simple?",
+    "pt4desc": "Deja que la IA diseñe, pruebe y ejecute tus estrategias automáticamente.",
+    "Core Features": "Funciones principales",
+    "Simple": "Precios simples y <purple>transparentes</purple>",
+    "Get started instantly": "Comienza al instante — suscríbete y despliega tu primera estrategia cuantitativa en minutos.",
+    "Start trading smarter today": "Empieza a operar de forma más inteligente hoy.",
+    "Join early access": "Únete al acceso anticipado para probar estrategias optimizadas con IA.",
+    "Limited early access": "Acceso anticipado limitado disponible para usuarios de Binance.",
+    "feature": {
+      "title1": "Motor de estrategias con IA",
+      "desc1": "Genera y optimiza estrategias de trading automáticamente.",
+      "title2": "Backtesting inteligente",
+      "desc2": "Evalúa el rendimiento al instante con datos reales del mercado.",
+      "title3": "Ejecución con un clic",
+      "desc3": "Despliega y ejecuta estrategias sin problemas — sin necesidad de programar.",
+      "title4": "Aprendizaje sin riesgo",
+      "desc4": "Analiza y prueba tus operaciones pasadas de forma inteligente para mejorar tu rendimiento futuro."
+    },
+    "earlybird": {
+      "new": "Oferta para nuevos usuarios antes de ",
+      "subscription": "Suscripción de -días — Ahora ",
+      "save": "Ahorra ",
+      "Early Access": "Acceso anticipado — Limitado a {count} usuarios ",
+      "Join our early": "Únete a nuestro programa de acceso anticipado y obtén prioridad en estrategias de trading con IA."
+    },
+    "how2use": {
+      "title": "Cómo <purple>usar</purple>",
+      "unlock": "Desbloquea {name} en cuatro sencillos pasos — compatible con Binance ",
+      "stepT1": "Suscríbete a un plan",
+      "stepD1": "Elige tu suscripción para desbloquear estrategias cuantitativas y herramientas de ejecución con IA.",
+      "stepT2": "Conecta tu cuenta CEX",
+      "stepD2": "Vincula de forma segura tu cuenta de Binance mediante API para habilitar trading en vivo y sincronización de datos.",
+      "stepT3": "Configura parámetros personalizados",
+      "stepD3": "Ajusta niveles de riesgo, frecuencia de trading y tamaño de posición según tus objetivos.",
+      "stepT4": "Inicia tu estrategia",
+      "stepD4": "Selecciona un modelo de trading optimizado con IA y lánzalo con un solo clic — totalmente automatizado y monitoreado en tiempo real."
+    }
+  },
+  "Product": {
+    "Annual Return": "Retorno anual",
+    "Duration (days)": "Duración (días)",
+    "Max Drawdown": "Máxima caída",
+    "Win Rate": "Tasa de aciertos",
+    "Active": "Activo",
+    "Pause": "Pausar",
+    "Start": "Iniciar",
+    "Fix": "Mantenimiento",
+    "Switch Strategy": "Cambiar estrategia",
+    "Switch AI Agent": "Cambiar agente de IA",
+    "Switch CEX": "Cambiar CEX",
+    "Hot Strategies": "Estrategias base",
+    "Mean Reversion": "Reversión a la media",
+    "Breakout": "Ruptura",
+    "Reversal": "Reversión",
+    "Box Consolidation": "Consolidación lateral",
+    "Leverage": "Apalancamiento",
+    "Max USDT": "MÁX",
+    "Timeframe": "Marco temporal",
+    "Unlock": "Desbloquear",
+    "Token": "TOKEN",
+    "Warining": "Aviso importante ⚠️",
+    "CloseByself": "Si pausas la estrategia, cualquier posición abierta deberá gestionarse manualmente.",
+    "spot": "Spot",
+    "futures": "Futuros"
+  },
+  "Plan": {
+    "New Account": "Cuenta nueva",
+    "Weekly": "Semanal",
+    "Monthly": "Mensual",
+    "Quarterly": "Trimestral",
+    "Days": "Días",
+    "Month": "Mes",
+    "Months": "Meses",
+    "Start Quarterly": "Iniciar trimestral",
+    "Start Monthly": "Iniciar mensual",
+    "Start Now": "Empezar ahora",
+    "Perfect for exploring": "Perfecto para explorar",
+    "For regular traders": "Para traders frecuentes",
+    "Supports Binance & OKX exchanges": "Compatible con Binance",
+    "Built-in trading strategies ready to use": "Estrategias integradas listas para usar",
+    "One-click start with auto configuration": "Inicio con un clic y configuración automática"
+  },
+  "forecast": {
+    "f1": "Perspectivas del mercado cripto",
+    "f2": "Última actualización ",
+    "f3": "Fuente de datos:",
+    "f4": "Intervalo:",
+    "f5": "Probabilidad de subida (próximas 24h)",
+    "f6": "Confianza del modelo de que el precio en 24h será superior al último precio conocido.",
+    "f7": "Amplificación de volatilidad (próximas 24h)",
+    "f8": "Probabilidad de que la volatilidad prevista supere la volatilidad histórica reciente.",
+    "f9": "Datos solo con fines informativos. No constituyen asesoramiento financiero."
+  },
+  "sign": {
+    "start": "100% gratis para comenzar",
+    "StartTrading": "Empieza tu trading con IA",
+    "Join": "Únete a miles de traders en {name} — opera fácilmente sin gastar demasiado tiempo ni esfuerzo.",
+    "Create Your Account": "Crea tu cuenta",
+    "Starttoday": "Comienza hoy tu viaje de trading forex sin riesgo",
+    "Iagree": "Acepto los",
+    "TermsofService": "Términos de servicio",
+    "PrivacyPolicy": "Política de privacidad",
+    "AccountCsuccessfully": "¡Cuenta creada con éxito! Redirigiendo al inicio de sesión...",
+    "CreatingAccount": "Creando cuenta...",
+    "AccountCreated": "¡Cuenta creada!",
+    "CreateAccount&StartTrading": "Crear cuenta y comenzar a operar",
+    "Or sign up with": "O regístrate con",
+    "AlreadyHaveAccount": "¿Ya tienes una cuenta?",
+    "SignHere": "Inicia sesión aquí",
+    "and": "y",
+    "Continue your AI trading journey with": "Continúa tu viaje de trading con IA con",
+    "in": {
+      "t1": "Accede a tu panel de trading al instante",
+      "t2": "Continúa con tus operaciones y posiciones existentes",
+      "t3": "Cuenta segura con cifrado avanzado",
+      "t4": "Introduce tus credenciales para acceder a tu panel de trading",
+      "t5": "Recordarme",
+      "t6": "¿Olvidaste tu contraseña?",
+      "t7": "Inicio de sesión exitoso. Redirigiendo al panel...",
+      "t9": "Iniciando sesión...",
+      "t10": "Sesión iniciada",
+      "t11": "O continúa con",
+      "t12": "¿No tienes una cuenta?",
+      "t13": "Regístrate gratis"
+    },
+    "up": {
+      "t1": "Por favor, introduce una dirección de correo electrónico válida",
+      "t2": "La contraseña debe tener al menos 6 caracteres",
+      "t3": "Las contraseñas no coinciden",
+      "t4": "Actualización exitosa. Por favor, inicia sesión nuevamente.",
+      "t5": "Error al actualizar la contraseña",
+      "t6": "Cambiar contraseña",
+      "t7": "Contraseña actual",
+      "t8": "Nueva contraseña",
+      "t9": "Confirmar nueva contraseña",
+      "t10": "Cancelar",
+      "t11": "Confirmar"
+    }
+  },
+  "User": {
+    "Menu": {
+      "Dashboard": "Panel",
+      "Profile": "Perfil",
+      "Subscriptions": "Suscripciones",
+      "Strategy Market": "Mercado de estrategias",
+      "API Tokens": "Tokens de API",
+      "Notifications": "Notificaciones"
+    },
+    "Dashboard": {
+      "a1": "Actualmente no hay ninguna estrategia en ejecución.",
+      "a2": "Elige una y comienza ahora tu trading automatizado.",
+      "a3": "Seleccionar estrategia"
+    },
+    "ApiToken": {
+      "a1": "Tokens de API",
+      "a2": "Configuración de API de {name}",
+      "a3": "Introduce tus credenciales de API de {name} para habilitar el trading y la sincronización de datos.",
+      "a4": "Clave de API",
+      "a5": "Clave secreta",
+      "a6": "Frase secreta",
+      "a7": "Guardar",
+      "a8": "Asegúrate de desactivar el permiso de retiro.",
+      "a9": "Se deben habilitar los permisos de trading spot y de futuros",
+      "a10": "Se requiere configurar la API",
+      "a11": "Antes de habilitar esta estrategia, debe configurar la API Key del exchange. Asegúrese de que los permisos de trading spot y de futuros estén habilitados. No es necesario habilitar el permiso de retiro."
+    },
+    "Info": {
+      "i1": "Perfil",
+      "i2": "Se unió",
+      "i3": "Plan actual",
+      "i4": "Detalles de tu suscripción activa",
+      "i5": "Expira el",
+      "i6": "Actualizar",
+      "i7": "Seguridad de la cuenta",
+      "i8": "Cambiar contraseña",
+      "i9": "Habilitar 2FA",
+      "i10": "Eliminar cuenta",
+      "i11": "Cerrar sesión",
+      "i12": "Precio",
+      "e1": "Actualmente no hay suscripciones activas.",
+      "e2": "Elige un plan y comienza instantáneamente el trading cuantitativo inteligente.",
+      "e3": "Suscribirse ahora"
+    },
+    "Notification": {
+      "n1": "Configuración de notificaciones",
+      "n2": "Administrar notificaciones",
+      "n3": "Elige qué actualizaciones y alertas deseas recibir.",
+      "n4": "Alertas de trading",
+      "n5": "Recibe notificaciones en tiempo real cuando tu estrategia genere señales.",
+      "n6": "Vencimiento de la suscripción",
+      "n7": "Recibe recordatorios antes de que expire tu plan.",
+      "n8": "Actualizaciones del sistema",
+      "n9": "Recibe anuncios importantes del sistema y mantenimiento.",
+      "n10": "Correos de marketing",
+      "n11": "Obtén acceso anticipado a promociones y nuevas estrategias."
+    },
+    "Subscriptions": {
+      "s1": "No te lo pierdas — actualiza ahora y maximiza tus retornos.",
+      "s2": "Historial de facturación",
+      "s3": "Si el estado no se actualiza después de 15 minutos, por favor <purple>contáctanos</purple> usando tu correo registrado.",
+      "colum1": "Fecha",
+      "colum2": "Plan",
+      "colum3": "Importe",
+      "colum4": "Estado",
+      "recharge1": "He completado el pago",
+      "Total": "Total",
+      "Discount": "Descuento",
+      "Amount": "Importe",
+      "Address:": "Dirección:",
+      "Network:": "Red:",
+      "Time Left:": "Tiempo restante:",
+      "Payment": "Pago",
+      "Copied": "Copiado correctamente"
+    }
+  },
+  "Privacy": {
+    "title": "Política de privacidad",
+    "lastUpdated": "Última actualización",
+    "sections": {
+      "service": {
+        "title": "1. Descripción del servicio",
+        "paragraphs": [
+          "Somos un proveedor independiente de servicios tecnológicos que ofrece estrategias automatizadas de trading de futuros impulsadas por IA mediante APIs de exchanges autorizadas por los usuarios."
+        ],
+        "list": [
+          "No somos un exchange, broker ni custodio",
+          "No poseemos ni controlamos fondos de los usuarios",
+          "Todas las operaciones se ejecutan en exchanges de terceros",
+          "Solo se admite trading de futuros / derivados"
+        ]
+      },
+      "information": {
+        "title": "2. Información que recopilamos",
+        "subSections": [
+          {
+            "label": "Información de la cuenta",
+            "list": [
+              "Dirección de correo electrónico",
+              "ID de la cuenta",
+              "Estado de la suscripción"
+            ]
+          },
+          {
+            "label": "NO recopilamos:",
+            "list": [
+              "Documentos de identificación gubernamentales",
+              "Datos KYC o biométricos",
+              "Fecha de nacimiento ni dirección"
+            ]
+          }
+        ]
+      },
+      "api": {
+        "title": "3. Datos de API del exchange",
+        "list": [
+          "Nombre del exchange",
+          "Clave y secreto de API (cifrados)",
+          "Solo permisos de lectura y trading"
+        ],
+        "paragraphs": [
+          "No se solicitan ni admiten permisos de retiro."
+        ]
+      },
+      "ai": {
+        "title": "4. Trading automatizado y decisiones de IA",
+        "list": [
+          "Todas las decisiones de trading son realizadas por modelos de IA",
+          "Sin intervención humana en la ejecución",
+          "Sin copy trading ni trading social",
+          "No se proporciona asesoramiento de inversión"
+        ]
+      },
+      "usage": {
+        "title": "5. Uso de los datos",
+        "list": [
+          "Operar y mantener la plataforma",
+          "Ejecutar las estrategias suscritas",
+          "Monitoreo de seguridad y prevención de abusos",
+          "Gestión de suscripciones"
+        ]
+      },
+      "security": {
+        "title": "6. Seguridad de los datos",
+        "list": [
+          "Almacenamiento cifrado de datos sensibles",
+          "Transmisión de datos cifrada mediante TLS",
+          "Controles internos estrictos de acceso"
+        ]
+      },
+      "risk": {
+        "title": "7. Divulgación de riesgos",
+        "list": [
+          "El trading de futuros implica alto riesgo",
+          "El apalancamiento puede causar pérdidas rápidas",
+          "Las estrategias de IA pueden fallar",
+          "El rendimiento pasado no garantiza resultados futuros"
+        ]
+      },
+      "responsibility": {
+        "title": "8. Responsabilidades del usuario",
+        "list": [
+          "Gestionar y proteger tus claves de API",
+          "Configurar permisos adecuados",
+          "Revocar el acceso a la API en cualquier momento"
+        ]
+      },
+      "retention": {
+        "title": "9. Retención de datos",
+        "paragraphs": [
+          "Los datos se conservan solo durante el tiempo necesario para prestar los servicios o cumplir con obligaciones legales."
+        ]
+      },
+      "children": {
+        "title": "10. Privacidad de menores",
+        "paragraphs": [
+          "Este servicio no está destinado a personas menores de 18 años."
+        ]
+      },
+      "updates": {
+        "title": "11. Actualizaciones de la política",
+        "paragraphs": [
+          "Podemos actualizar esta Política de privacidad periódicamente. El uso continuado del servicio implica la aceptación de los cambios."
+        ]
+      },
+      "contact": {
+        "title": "12. Contacto",
+        "emailLabel": "Correo electrónico"
+      }
+    }
+  },
+  "Terms": {
+    "title": "Términos de uso",
+    "lastUpdated": "Última actualización",
+    "sections": {
+      "acceptance": {
+        "title": "1. Aceptación de los términos",
+        "content": "Al acceder o utilizar nuestro sitio web, productos o servicios (“Servicios”), aceptas quedar sujeto a estos Términos de uso y a todas las leyes y regulaciones aplicables."
+      },
+      "usage": {
+        "title": "2. Uso de nuestros servicios",
+        "content": "Aceptas utilizar nuestros Servicios únicamente con fines legales y de acuerdo con estos Términos.",
+        "list": [
+          "No intentes acceder a sistemas o datos sin autorización.",
+          "No realices actividades que puedan dañar o interferir con los Servicios.",
+          "No utilices los Servicios con fines fraudulentos o maliciosos."
+        ]
+      },
+      "account": {
+        "title": "3. Cuentas y seguridad",
+        "content": "Eres responsable de mantener la confidencialidad de las credenciales de tu cuenta y de todas las actividades realizadas en ella."
+      },
+      "subscription": {
+        "title": "4. Suscripciones y pagos",
+        "content": "Al suscribirte a funciones de pago, aceptas proporcionar información de pago precisa. Las tarifas no son reembolsables salvo que la ley lo exija."
+      },
+      "ip": {
+        "title": "5. Propiedad intelectual",
+        "content": "Todo el contenido, marcas y materiales disponibles a través de los Servicios son propiedad nuestra o están licenciados a nosotros."
+      },
+      "disclaimer": {
+        "title": "6. Exención de garantías",
+        "content": "Los Servicios se proporcionan “tal cual” y “según disponibilidad”, sin garantías de ningún tipo."
+      },
+      "liability": {
+        "title": "7. Limitación de responsabilidad",
+        "content": "En la máxima medida permitida por la ley, no somos responsables de daños indirectos o consecuentes derivados del uso de los Servicios."
+      },
+      "termination": {
+        "title": "8. Terminación",
+        "content": "Nos reservamos el derecho de suspender o cancelar el acceso a los Servicios a nuestra discreción."
+      },
+      "law": {
+        "title": "9. Ley aplicable",
+        "content": "Estos Términos se rigen e interpretan de acuerdo con las leyes de Hong Kong."
+      },
+      "changes": {
+        "title": "10. Cambios en los términos",
+        "content": "Podemos modificar estos Términos en cualquier momento. El uso continuado de los Servicios implica la aceptación de los términos actualizados."
+      },
+      "contact": {
+        "title": "11. Contacto",
+        "emailLabel": "Correo electrónico"
+      }
+    }
+  },
+  "HowItWorks": {
+    "start": "Comenzar ahora",
+    "tag": "Análisis técnico en profundidad",
+    "tt": "ArcaneGPT: Minería automática de factores cuantitativos cripto con IA | AMCC",
+    "td": "Descubre cómo AMCC utiliza ArcaneGPT y la regularización Low-Rank Decay (LoRD) para superar el sobreajuste y generar automáticamente estrategias cripto de alto rendimiento.",
+    "jsonLdH": "ArcaneGPT: Motor de minería cuantitativa con IA de próxima generación",
+    "jsonLdD": "AMCC revela la próxima generación de tecnología de generación automática de estrategias cripto.",
+    "h1": "Una IA que “inventa” fórmulas de trading automáticamente",
+    "h2": "Rompiendo el sobreajuste, AMCC presenta la nueva generación de estrategias automáticas para Meme coins.",
+    "h3": "¿Cómo funciona ArcaneGPT?",
+    "h4": "Imagina contratar a un becario genio especializado en indicadores cuantitativos. Cada día escribe miles de fórmulas matemáticas. Tú pruebas cuáles son rentables y guías la optimización futura.",
+    "h5": "El cerebro (ArcaneGPT)",
+    "h6": "Responsable de la exploración creativa. No genera texto, sino tokens de instrucción que forman indicadores complejos inimaginables para los humanos.",
+    "h7": "Las manos (Stack)",
+    "h8": "Responsables de la ejecución. Aplican las fórmulas a datos de mercado cripto en tiempo real para generar señales de trading.",
+    "h9": "El juez (JD)",
+    "h10": "Responsable de la evaluación. Las fórmulas rentables se coronan como el “Nuevo Rey” (New King); las erróneas o perdedoras se eliminan.",
+    "h11": "Regularización LoRD (Low-Rank Decay)",
+    "h12": "¿Por qué las estrategias generadas por IA suelen fallar?",
+    "h13": "El problema más común es el sobreajuste: la IA memoriza ruido histórico. Funciona en backtests, pero falla en trading real.",
+    "h14": "“LoRD es como poner el cerebro de la IA a dieta. Obliga a usar matrices de bajo rango, evitando el exceso de complejidad y mejorando la generalización.”",
+    "h15": "Flujo de minería automatizada",
+    "h16": "El núcleo del motor AMCC se basa en aprendizaje por refuerzo (RL). A continuación se muestra un fragmento clave del proceso de minería automática:",
+    "h17": "El verdadero valor de ArcaneGPT",
+    "h18": "No necesitas escribir ni una sola línea de lógica de trading. Solo proporciona los datos (velas, métricas on-chain) y ArcaneGPT entregará directamente las fórmulas más rentables."
+  }
+}

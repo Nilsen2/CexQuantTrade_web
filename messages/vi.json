@@ -1,0 +1,511 @@
+{
+    "Metadata": {
+      "stitle": "Nền tảng giao dịch định lượng AI tiền mã hóa | AMCC",
+      "sdescription": "AMCC | Giao dịch định lượng AI không cần cấu hình | Tự động giao dịch chỉ với một cú nhấp",
+      "title": "AMCC | Giao dịch định lượng AI 0 cấu hình | Ủy thác 1-click Binance, Coinbase, OKX và nhiều hơn nữa",
+      "description": "AMCC là nền tảng giao dịch định lượng thế hệ mới được vận hành bởi AI Agent. Hỗ trợ kết nối API một chạm với Binance, OKX, Bybit. Hệ thống giám sát dữ liệu on-chain và chỉ số sợ hãi để giao dịch tự động 24/7. An toàn tuyệt đối, không giữ tiền của người dùng.",
+      "Keywords": "Giao dịch AI, AMCC, Bot trading uy tín, Bot Binance AI, AI Agent tự động, Theo dõi on-chain, Chiến lược chỉ số sợ hãi, Giao dịch tiền điện tử tự động."
+    },
+    "ErrMsg": {
+      "sign1": "Vui lòng đồng ý với Điều khoản Dịch vụ và Chính sách Quyền riêng tư",
+      "sign2": "Đã xảy ra lỗi trong quá trình đăng ký",
+      "sign3": "Đã xảy ra lỗi không mong muốn, vui lòng thử lại.",
+      "sign4": "Đã xảy ra lỗi trong quá trình đăng nhập",
+      "sign5": "Email hoặc mật khẩu không đúng."
+    },
+    "PubDesc": {
+      "TSTB": "Suy nghĩ thông minh hơn, giao dịch hiệu quả hơn",
+      "HCKB": "Cách tạo khóa API trên Binance?",
+      "HCKO": "Cách tạo khóa API trên OKX?",
+      "back2home": "Quay lại trang chủ",
+      "FirstName": "Tên",
+      "LastName": "Họ",
+      "EmailAddress": "Địa chỉ Email",
+      "Password": "Mật khẩu",
+      "ConfirmPassword": "Xác nhận mật khẩu",
+      "Welcome Back": "Chào mừng trở lại",
+      "Sign In": "Đăng nhập",
+      "Sign Up": "Đăng ký",
+      "Success": "Thành công",
+      "Failed": "Thất bại",
+      "Pending": "Đang chờ xác nhận",
+      "Refresh": "Làm mới thành công",
+      "Saved": "Lưu thành công",
+      "PrivatePlan": "Nếu bạn cần một gói tùy chỉnh riêng tư, <purple>liên hệ với chúng tôi</purple>.",
+      "Warring": "Lưu ý",
+      "ChargeFinishMsg": "Nếu bạn đã hoàn tất việc chuyển tiền, hệ thống cần xác nhận trên blockchain. Vui lòng chờ từ 3–15 phút.",
+      "Confirmed": "Đồng",
+      "Cancel": "Hủy",
+      "Confirm": "Xác nhận"
+    },
+    "Navbar": {
+      "Home": "Trang chủ",
+      "BTC Forecast": "Dự đoán BTC",
+      "Top Rank": "Chiến lược",
+      "Pricing": "Gói dịch vụ",
+      "FAQ": "Câu hỏi thường gặp",
+      "How It Works": "Cách hoạt động",
+      "Sign In": "Đăng nhập",
+      "Sign Up": "Đăng ký",
+      "PRODUCT": "Sản phẩm",
+      "COMPANY": "Công ty",
+      "RESOURCES": "Tài nguyên",
+      "Terms of Service": "Điều khoản Dịch vụ",
+      "Privacy Policy": "Chính sách Quyền riêng tư",
+      "Contact Us": "Liên hệ"
+    },
+    "Home": {
+        "AI-OPTIMIZED MODELS": "MÔ HÌNH TỐI ƯU BỞI AI",
+        "RISK-AWARE EXECUTION": "THỰC THI NHẬN BIẾT RỦI RO",
+        "LIVE ANALYTICS DASHBOARD": "BẢNG PHÂN TÍCH TRỰC TIẾP",
+        "hero_title": "Giao dịch <purple>Quant</purple> dễ dàng  Tiền mã hóa được hỗ trợ bởi AI trong <teal>vài giây</teal>",
+        "hero_desc": "Thiết kế, tối ưu và thực thi chiến lược tiền mã hóa với độ chính xác được hỗ trợ bởi AI.",
+        "Start Trading Now": "Bắt đầu giao dịch ngay",
+        "HOT": "NỔI BẬT",
+        "Real-Time Execution": "Thực thi theo thời gian thực",
+        "AI-Verified & Secure": "Được xác minh bằng AI & An toàn",
+        "SeamlessConfiguration": "Cấu hình liền mạch, khởi chạy tức thì",
+        "Struggling": "Đang gặp khó khăn với <purple>những vấn đề này</purple>?",
+        "ThatsWhy": "Đó là lý do chúng tôi tạo ra {name} — Lối tắt tức thì giúp bạn giao dịch thông minh hơn",
+        "pt1": "Quá phức tạp để bắt đầu?",
+        "pt1desc": "Muốn giao dịch thông minh hơn nhưng không biết cách xây dựng chiến lược?",
+        "pt2": "Lạc lối trong các thuật ngữ kỹ thuật?",
+        "pt2desc": "Chỉ báo, API, và kiểm thử ngược — nghe thật quá tải?",
+        "pt3": "Không biết nên tin ai?",
+        "pt3desc": "Mô hình AI, tín hiệu hay người ảnh hưởng — cái nào thực sự hiệu quả?",
+        "pt4": "Ước gì có thể đơn giản hơn?",
+        "pt4desc": "Hãy để AI thiết kế, kiểm thử và vận hành chiến lược của bạn — hoàn toàn tự động.",
+        "Core Features": "Tính năng cốt lõi",
+        "Simple": "Giá cả <purple>đơn giản</purple> và minh bạch",
+        "Get started instantly": "Bắt đầu ngay — đăng ký và triển khai chiến lược định lượng đầu tiên của bạn trong vài phút.",
+        "Start trading smarter today": "Bắt đầu giao dịch thông minh hơn ngay hôm nay.",
+        "Join early access": "Tham gia quyền truy cập sớm để thử nghiệm chiến lược được tối ưu bởi AI.",
+        "Limited early access": "Quyền truy cập sớm giới hạn cho người dùng Binance.",
+        "feature": {
+        "title1": "Công cụ chiến lược AI",
+        "desc1": "Tự động tạo và tối ưu hóa chiến lược giao dịch.",
+        "title2": "Kiểm thử thông minh",
+        "desc2": "Đánh giá hiệu suất ngay lập tức với dữ liệu thị trường thực.",
+        "title3": "Thực thi chỉ với một cú nhấp",
+        "desc3": "Triển khai và vận hành chiến lược dễ dàng — không cần mã hóa.",
+        "title4": "Học tập không rủi ro",
+        "desc4": "Phân tích và kiểm thử lại các giao dịch trong quá khứ để cải thiện hiệu suất tương lai."
+        },
+        "earlybird": {
+        "new": "Ưu đãi người dùng mới trước ",
+        "subscription": "Gói đăng ký -Ngày — Giờ chỉ còn ",
+        "save": "Tiết kiệm ",
+        "Early Access": "Số lượng người dùng giai đoạn đầu có hạn {count} người ",
+        "Join our early": "Chỉ mở quyền truy cập sớm cho một số lượng người dùng nhất định."
+        },
+        "how2use": {
+        "title": "Cách <purple>Sử dụng</purple>",
+        "unlock": "Kích hoạt {name} chỉ với bốn bước đơn giản — áp dụng cho Binance",
+        "stepT1": "Đăng ký gói dịch vụ",
+        "stepD1": "Chọn gói đăng ký phù hợp để mở khóa chiến lược định lượng và công cụ giao dịch hỗ trợ AI.",
+        "stepT2": "Kết nối tài khoản CEX",
+        "stepD2": "Liên kết an toàn tài khoản Binance của bạn qua API để bật giao dịch trực tiếp và đồng bộ dữ liệu.",
+        "stepT3": "Thiết lập thông số tùy chỉnh",
+        "stepD3": "Điều chỉnh mức rủi ro, tần suất giao dịch và khối lượng lệnh để phù hợp với mục tiêu của bạn.",
+        "stepT4": "Khởi chạy chiến lược",
+        "stepD4": "Chọn mô hình giao dịch được tối ưu bởi AI và khởi chạy chỉ với một cú nhấp — hoàn toàn tự động và được giám sát theo thời gian thực."
+        }
+    },
+    "Product": {
+        "Annual Return": "Lợi nhuận hàng năm",
+        "Duration (days)": "Thời gian (ngày)",
+        "Max Drawdown": "Mức giảm tối đa",
+        "Win Rate": "Tỷ lệ thắng",
+        "Active": "Hoạt động",
+        "Pause": "Tạm dừng",
+        "Start": "Bắt đầu",
+        "Fix": "Đang bảo trì",
+        "Switch Strategy": "Chuyển chiến lược",
+        "Switch AI Agent": "Chuyển AI Agent",
+        "Switch CEX": "Chuyển sàn giao dịch CEX",
+        "Hot Strategies": "Chiến lược nổi bật",
+        "Mean Reversion": "Hồi quy trung bình",
+        "Breakout": "Chiến lược bứt phá",
+        "Reversal": "Chiến lược đảo chiều",
+        "Box Consolidation": "Chiến lược dao động trong hộp",
+        "Leverage": "Đòn bẩy",
+        "Max USDT": "USDT tối đa",
+        "Timeframe": "Khung thời gian",
+        "Unlock": "Mở khóa",
+        "Token": "Token",
+        "Warining": "Thông báo quan trọng ⚠️",
+        "CloseByself": "Nếu bạn tạm dừng chiến lược, các vị thế đang mở cần được tự xử lý.",
+        "spot": "Spot",
+        "futures": "Futures"
+    },
+    "Plan": {
+        "New Account": "Tài khoản mới",
+        "Weekly": "Hàng tuần",
+        "Monthly": "Hàng tháng",
+        "Quarterly": "Hàng quý",
+        "Days": "Ngày",
+        "Month": "Tháng",
+        "Months": "Tháng",
+        "Start Quarterly": "Bắt đầu gói quý",
+        "Start Monthly": "Bắt đầu gói tháng",
+        "Start Now": "Bắt đầu ngay",
+        "Perfect for exploring": "Hoàn hảo để khám phá",
+        "For regular traders": "Dành cho nhà giao dịch thường xuyên",
+        "Supports Binance & OKX exchanges": "Hỗ trợ sàn Binance",
+        "Built-in trading strategies ready to use": "Chiến lược giao dịch tích hợp sẵn, sẵn sàng sử dụng",
+        "One-click start with auto configuration": "Khởi động bằng một cú nhấp với cấu hình tự động"
+    },
+    "forecast": {
+        "f1": "Thông tin thị trường tiền mã hóa",
+        "f2": "Cập nhật lần cuối ",
+        "f3": "Nguồn dữ liệu:",
+        "f4": "Khoảng thời gian:",
+        "f5": "Xác suất tăng giá (24h tới)",
+        "f6": "Mức độ tự tin của mô hình rằng giá trong 24 giờ tới sẽ cao hơn giá hiện tại.",
+        "f7": "Độ biến động dự đoán (24h tới)",
+        "f8": "Xác suất biến động dự đoán trong 24h tới vượt qua biến động lịch sử gần đây.",
+        "f9": "Dữ liệu chỉ mang tính chất tham khảo. Không phải lời khuyên tài chính."
+    },
+    "sign": {
+        "start": "Bắt đầu hoàn toàn miễn phí",
+        "StartTrading": "Bắt đầu giao dịch với AI",
+        "Join": "Tham gia hàng nghìn nhà giao dịch trên {name} — giao dịch dễ dàng mà không tốn quá nhiều thời gian.",
+        "Create Your Account": "Tạo tài khoản của bạn",
+        "Starttoday": "Bắt đầu hành trình giao dịch không rủi ro ngay hôm nay",
+        "Iagree": "Tôi đồng ý với",
+        "TermsofService": "Điều khoản Dịch vụ",
+        "PrivacyPolicy": "Chính sách Quyền riêng tư",
+        "AccountCsuccessfully": "Tạo tài khoản thành công! Đang chuyển hướng đến trang đăng nhập...",
+        "CreatingAccount": "Đang tạo tài khoản...",
+        "AccountCreated": "Tài khoản đã được tạo!",
+        "CreateAccount&StartTrading": "Tạo tài khoản & bắt đầu giao dịch",
+        "Or sign up with": "Hoặc đăng ký bằng",
+        "AlreadyHaveAccount": "Đã có tài khoản?",
+        "SignHere": "Đăng nhập tại đây",
+        "and": "và",
+        "Continue your AI trading journey with": "Tiếp tục hành trình giao dịch AI của bạn với",
+        "in": {
+          "t1": "Truy cập bảng điều khiển giao dịch ngay lập tức",
+          "t2": "Tiếp tục với các giao dịch và vị thế hiện tại",
+          "t3": "Tài khoản được bảo mật bằng mã hóa nâng cao",
+          "t4": "Nhập thông tin đăng nhập để truy cập bảng điều khiển giao dịch",
+          "t5": "Ghi nhớ tôi",
+          "t6": "Quên mật khẩu?",
+          "t7": "Đăng nhập thành công! Đang chuyển hướng...",
+          "t9": "Đang đăng nhập...",
+          "t10": "Đã đăng nhập!",
+          "t11": "Hoặc tiếp tục với",
+          "t12": "Chưa có tài khoản?",
+          "t13": "Đăng ký miễn phí"
+        },
+        "up": {
+          "t1": "Vui lòng nhập địa chỉ email hợp lệ",
+          "t2": "Mật khẩu phải có ít nhất 6 ký tự",
+          "t3": "Mật khẩu không khớp",
+          "t4": "Cập nhật thành công, vui lòng đăng nhập lại",
+          "t5": "Cập nhật mật khẩu thất bại",
+          "t6": "Đổi mật khẩu",
+          "t7": "Mật khẩu hiện tại",
+          "t8": "Mật khẩu mới",
+          "t9": "Xác nhận mật khẩu mới",
+          "t10": "Hủy",
+          "t11": "Xác nhận"
+        }
+    },
+    "User": {
+        "Menu": {
+        "Dashboard": "Bảng điều khiển",
+        "Profile": "Hồ sơ",
+        "Subscriptions": "Gói đăng ký",
+        "Strategy Market": "Thị trường chiến lược",
+        "API Tokens": "Mã API",
+        "Notifications": "Thông báo"
+        },
+        "Dashboard": {
+          "a1": "Hiện tại không có chiến lược nào đang được triển khai.",
+          "a2": "Hãy chọn một chiến lược và bắt đầu giao dịch tự động ngay bây giờ.",
+          "a3": "Chọn chiến lược"
+        },
+        "ApiToken": {
+        "a1": "Mã API",
+        "a2": "Cấu hình API {name}",
+        "a3": "Nhập thông tin API {name} để bật giao dịch và đồng bộ dữ liệu.",
+        "a4": "Khóa API",
+        "a5": "Khóa bí mật",
+        "a6": "Mật khẩu phụ (Passphrase)",
+        "a7": "Lưu",
+        "a8": "Vui lòng đảm bảo tắt quyền Rút tiền (Withdraw).",
+        "a9": "Cần bật quyền giao dịch spot và hợp đồng",
+        "a10": "Cần cấu hình API",
+        "a11": "Trước khi kích hoạt chiến lược này, bạn phải cấu hình API Key của sàn. Vui lòng đảm bảo đã bật quyền giao dịch spot và hợp đồng. Không cần bật quyền rút tiền."
+        },
+        "Info": {
+        "i1": "Hồ sơ cá nhân",
+        "i2": "Tham gia từ",
+        "i3": "Gói hiện tại",
+        "i4": "Chi tiết gói đăng ký đang hoạt động",
+        "i5": "Hết hạn vào",
+        "i6": "Nâng cấp",
+        "i7": "Bảo mật tài khoản",
+        "i8": "Đổi mật khẩu",
+        "i9": "Bật xác thực 2FA",
+        "i10": "Xóa tài khoản",
+        "i11": "Đăng xuất",
+        "i12": "Số tiền",
+        "e1": "Hiện không có gói đăng ký nào đang hoạt động.",
+        "e2": "Chọn gói phù hợp nhất với bạn và bắt đầu giao dịch định lượng thông minh ngay hôm nay.",
+        "e3": "Đăng ký ngay"
+        },
+        "Notification": {
+        "n1": "Cài đặt thông báo",
+        "n2": "Quản lý thông báo",
+        "n3": "Chọn loại cập nhật và cảnh báo bạn muốn nhận.",
+        "n4": "Cảnh báo giao dịch",
+        "n5": "Nhận thông báo thời gian thực khi chiến lược của bạn kích hoạt tín hiệu.",
+        "n6": "Hết hạn đăng ký",
+        "n7": "Nhận nhắc nhở trước khi gói của bạn hết hạn.",
+        "n8": "Cập nhật hệ thống",
+        "n9": "Nhận thông báo quan trọng về hệ thống và bảo trì.",
+        "n10": "Email tiếp thị",
+        "n11": "Nhận ưu đãi sớm và chiến lược mới được phát hành."
+        },
+        "Subscriptions": {
+        "s1": "Đừng bỏ lỡ — nâng cấp ngay để tối đa hóa lợi nhuận!",
+        "s2": "Lịch sử thanh toán",
+        "s3": "Nếu trạng thái chưa cập nhật sau 15 phút, vui lòng <purple>liên hệ với chúng tôi</purple> bằng email đã đăng ký.",
+        "colum1": "Ngày",
+        "colum2": "Gói",
+        "colum3": "Số tiền",
+        "colum4": "Trạng thái",
+        "recharge1": "Tôi đã hoàn tất thanh toán",
+        "Total": "Tổng cộng",
+        "Discount": "Giảm giá",
+        "Amount": "Số tiền",
+        "Address:": "Địa chỉ:",
+        "Network:": "Mạng:",
+        "Time Left:": "Thời gian còn lại:",
+        "Payment": "Thanh toán",
+        "Copied": "Đã sao chép thành công"
+        }
+    },
+    "Privacy": {
+      "title": "Chính sách quyền riêng tư",
+      "lastUpdated": "Cập nhật lần cuối",
+
+      "sections": {
+        "service": {
+          "title": "1. Tổng quan dịch vụ",
+          "paragraphs": [
+            "Chúng tôi là nhà cung cấp dịch vụ công nghệ bên thứ ba độc lập, cung cấp các chiến lược giao dịch hợp đồng tự động dựa trên AI thông qua API sàn giao dịch được người dùng ủy quyền."
+          ],
+          "list": [
+            "Chúng tôi không phải là sàn giao dịch, nhà môi giới hay đơn vị lưu ký",
+            "Chúng tôi không nắm giữ hoặc kiểm soát tiền của người dùng",
+            "Mọi giao dịch đều được thực hiện trên các sàn giao dịch bên thứ ba",
+            "Chỉ hỗ trợ giao dịch hợp đồng / phái sinh"
+          ]
+        },
+
+        "information": {
+          "title": "2. Thông tin chúng tôi thu thập",
+          "subSections": [
+            {
+              "label": "Thông tin tài khoản",
+              "list": [
+                "Địa chỉ email",
+                "ID tài khoản",
+                "Trạng thái đăng ký"
+              ]
+            },
+            {
+              "label": "Chúng tôi KHÔNG thu thập:",
+              "list": [
+                "Giấy tờ tùy thân do chính phủ cấp",
+                "Dữ liệu KYC hoặc sinh trắc học",
+                "Ngày sinh hoặc địa chỉ cư trú"
+              ]
+            }
+          ]
+        },
+
+        "api": {
+          "title": "3. Dữ liệu API sàn giao dịch",
+          "list": [
+            "Tên sàn giao dịch",
+            "API Key và Secret (được mã hóa)",
+            "Chỉ cấp quyền đọc và giao dịch"
+          ],
+          "paragraphs": [
+            "Chúng tôi không yêu cầu hoặc hỗ trợ quyền rút tiền."
+          ]
+        },
+
+        "ai": {
+          "title": "4. Giao dịch tự động & Quyết định AI",
+          "list": [
+            "Mọi quyết định giao dịch đều do mô hình AI thực hiện",
+            "Không có sự can thiệp của con người trong quá trình giao dịch",
+            "Không hỗ trợ copy trading hoặc giao dịch xã hội",
+            "Không cung cấp lời khuyên đầu tư"
+          ]
+        },
+
+        "usage": {
+          "title": "5. Mục đích sử dụng dữ liệu",
+          "list": [
+            "Vận hành và duy trì nền tảng",
+            "Thực thi các chiến lược mà người dùng đã đăng ký",
+            "Giám sát an ninh và ngăn chặn lạm dụng",
+            "Quản lý đăng ký dịch vụ"
+          ]
+        },
+
+        "security": {
+          "title": "6. Bảo mật dữ liệu",
+          "list": [
+            "Lưu trữ dữ liệu nhạy cảm dưới dạng mã hóa",
+            "Truyền dữ liệu được mã hóa bằng TLS",
+            "Kiểm soát truy cập nội bộ nghiêm ngặt"
+          ]
+        },
+
+        "risk": {
+          "title": "7. Cảnh báo rủi ro",
+          "list": [
+            "Giao dịch hợp đồng tiềm ẩn rủi ro cao",
+            "Đòn bẩy có thể gây thua lỗ nhanh chóng",
+            "Chiến lược AI có thể thất bại",
+            "Hiệu suất trong quá khứ không đảm bảo kết quả trong tương lai"
+          ]
+        },
+
+        "responsibility": {
+          "title": "8. Trách nhiệm của người dùng",
+          "list": [
+            "Quản lý và bảo mật API Key của bạn",
+            "Thiết lập quyền API phù hợp",
+            "Có thể thu hồi quyền API bất cứ lúc nào"
+          ]
+        },
+
+        "retention": {
+          "title": "9. Lưu trữ dữ liệu",
+          "paragraphs": [
+            "Dữ liệu chỉ được lưu trữ trong thời gian cần thiết để cung cấp dịch vụ hoặc tuân thủ nghĩa vụ pháp lý."
+          ]
+        },
+
+        "children": {
+          "title": "10. Quyền riêng tư của trẻ vị thành niên",
+          "paragraphs": [
+            "Dịch vụ này không dành cho người dưới 18 tuổi."
+          ]
+        },
+
+        "updates": {
+          "title": "11. Cập nhật chính sách",
+          "paragraphs": [
+            "Chúng tôi có thể cập nhật Chính sách quyền riêng tư này theo thời gian. Việc tiếp tục sử dụng dịch vụ đồng nghĩa với việc bạn chấp nhận các thay đổi."
+          ]
+        },
+
+        "contact": {
+          "title": "12. Liên hệ",
+          "emailLabel": "Email"
+        }
+      }
+    },
+    "Terms": {
+    "title": "Điều Khoản Sử Dụng",
+    "lastUpdated": "Cập nhật lần cuối",
+
+    "sections": {
+      "acceptance": {
+        "title": "1. Chấp Nhận Điều Khoản",
+        "content": "Bằng việc truy cập hoặc sử dụng trang web, sản phẩm hoặc dịch vụ của chúng tôi (“Dịch vụ”), bạn đồng ý bị ràng buộc bởi Điều Khoản Sử Dụng này cũng như tất cả các luật và quy định hiện hành. Nếu bạn không đồng ý, vui lòng không sử dụng Dịch vụ của chúng tôi."
+      },
+
+      "usage": {
+        "title": "2. Việc Sử Dụng Dịch Vụ",
+        "content": "Bạn đồng ý chỉ sử dụng Dịch vụ cho các mục đích hợp pháp và phù hợp với các Điều khoản này. Bạn chịu trách nhiệm đảm bảo rằng việc sử dụng của mình tuân thủ luật pháp hiện hành và không xâm phạm quyền lợi của bên thứ ba.",
+        "list": [
+          "Không cố gắng truy cập hệ thống hoặc dữ liệu khi chưa được cấp quyền.",
+          "Không thực hiện các hành vi có thể gây hư hại, gián đoạn hoặc làm ảnh hưởng đến Dịch vụ.",
+          "Không sử dụng Dịch vụ cho bất kỳ mục đích gian lận hoặc độc hại nào."
+        ]
+      },
+
+      "account": {
+        "title": "3. Tài Khoản và Bảo Mật",
+        "content": "Bạn có trách nhiệm bảo mật thông tin đăng nhập tài khoản của mình và chịu trách nhiệm cho mọi hoạt động diễn ra dưới tài khoản đó. Vui lòng thông báo ngay cho chúng tôi nếu bạn nghi ngờ có việc sử dụng trái phép."
+      },
+
+      "subscription": {
+        "title": "4. Đăng Ký và Thanh Toán",
+        "content": "Khi đăng ký các tính năng trả phí, bạn đồng ý cung cấp thông tin thanh toán chính xác và cho phép chúng tôi thu phí từ phương thức thanh toán của bạn. Phí đăng ký sẽ không được hoàn lại trừ khi luật pháp có quy định khác."
+      },
+
+      "ip": {
+        "title": "5. Quyền Sở Hữu Trí Tuệ",
+        "content": "Tất cả nội dung, nhãn hiệu và tài liệu được cung cấp thông qua Dịch vụ đều thuộc quyền sở hữu của chúng tôi hoặc được cấp phép hợp pháp. Bạn không được sao chép, tái sản xuất hoặc phân phối bất kỳ nội dung nào khi chưa có sự cho phép bằng văn bản của chúng tôi."
+      },
+
+      "disclaimer": {
+        "title": "6. Tuyên Bố Miễn Trừ Trách Nhiệm",
+        "content": "Dịch vụ của chúng tôi được cung cấp trên cơ sở “nguyên trạng” và “sẵn có”, không kèm theo bất kỳ bảo đảm nào. Chúng tôi không đảm bảo về độ tin cậy, tính sẵn sàng hoặc sự phù hợp của Dịch vụ đối với nhu cầu cụ thể của bạn."
+      },
+
+      "liability": {
+        "title": "7. Giới Hạn Trách Nhiệm",
+        "content": "Trong phạm vi tối đa được pháp luật cho phép, chúng tôi không chịu trách nhiệm đối với bất kỳ thiệt hại gián tiếp, ngẫu nhiên hoặc hậu quả nào phát sinh từ việc bạn sử dụng Dịch vụ, ngay cả khi đã được thông báo về khả năng xảy ra các thiệt hại đó."
+      },
+
+      "termination": {
+        "title": "8. Chấm Dứt Dịch Vụ",
+        "content": "Chúng tôi có quyền đình chỉ hoặc chấm dứt quyền truy cập Dịch vụ của bạn theo quyết định của mình, không cần thông báo trước, nếu bạn vi phạm các Điều khoản này hoặc luật pháp hiện hành."
+      },
+
+      "law": {
+        "title": "9. Luật Áp Dụng",
+        "content": "Các Điều Khoản này được điều chỉnh và giải thích theo luật pháp của Đặc khu Hành chính Hồng Kông. Mọi tranh chấp phát sinh sẽ thuộc thẩm quyền giải quyết độc quyền của các tòa án tại Hồng Kông."
+      },
+
+      "changes": {
+        "title": "10. Thay Đổi Điều Khoản",
+        "content": "Chúng tôi có thể sửa đổi các Điều Khoản Sử Dụng này theo thời gian. Mọi cập nhật sẽ được đăng tải trên trang này cùng với ngày “Cập nhật lần cuối” mới. Việc bạn tiếp tục sử dụng Dịch vụ đồng nghĩa với việc bạn chấp nhận các điều khoản đã được sửa đổi."
+      },
+
+      "contact": {
+        "title": "11. Liên Hệ",
+        "emailLabel": "Email"
+      }
+    }
+  },
+  "HowItWorks": {
+    "start": "Trải nghiệm ngay",
+    "tag": "Phân tích công nghệ chuyên sâu",
+    "tt": "ArcaneGPT: Tự động khai thác yếu tố định lượng crypto bằng AI | AMCC",
+    "td": "Khám phá cách AMCC sử dụng ArcaneGPT và kỹ thuật điều chuẩn Low-Rank Decay (LoRD) để vượt qua hiện tượng quá khớp và tự động tạo ra các chiến lược giao dịch crypto hiệu quả cao.",
+    "jsonLdH": "ArcaneGPT: Công cụ khai thác yếu tố định lượng AI thế hệ mới",
+    "jsonLdD": "AMCC hé lộ công nghệ tạo chiến lược giao dịch crypto tự động thế hệ tiếp theo.",
+    "h1": "AI có thể tự động “phát minh” công thức giao dịch",
+    "h2": "Phá vỡ rào cản quá khớp, AMCC tiết lộ công nghệ tạo chiến lược giao dịch Meme coin tự động thế hệ mới.",
+    "h3": "ArcaneGPT hoạt động như thế nào?",
+    "h4": "Hãy tưởng tượng bạn thuê một thực tập sinh thiên tài chuyên về chỉ báo định lượng. Mỗi ngày, họ viết ra hàng nghìn công thức toán học khác nhau. Bạn kiểm tra công thức nào sinh lời và hướng dẫn họ tối ưu trong tương lai.",
+    "h5": "Bộ não (ArcaneGPT)",
+    "h6": "Chịu trách nhiệm “tư duy sáng tạo”. Nó không xuất văn bản mà tạo ra các token chỉ thị, kết hợp thành những chỉ báo phức tạp vượt xa khả năng tưởng tượng của con người.",
+    "h7": "Đôi tay (Stack)",
+    "h8": "Chịu trách nhiệm thực thi. Áp dụng các công thức do bộ não tạo ra vào dữ liệu thị trường crypto theo thời gian thực để tính toán tín hiệu giao dịch cụ thể.",
+    "h9": "Trọng tài (JD)",
+    "h10": "Chịu trách nhiệm chấm điểm. Những công thức có lợi nhuận sẽ được phong là “Vua Mới” (New King), còn những công thức sai hoặc thua lỗ sẽ bị loại bỏ ngay lập tức.",
+    "h11": "Điều chuẩn LoRD (Low-Rank Decay)",
+    "h12": "Tại sao các chiến lược do AI khai thác thường thất bại?",
+    "h13": "Vấn đề phổ biến nhất là quá khớp — AI dễ ghi nhớ nhiễu trong dữ liệu lịch sử. Chiến lược trông hoàn hảo khi backtest nhưng thất bại khi giao dịch thực tế.",
+    "h14": "“Công nghệ LoRD giống như cho bộ não của AI ăn kiêng. Nó buộc các ma trận mô hình duy trì cấu trúc thấp hạng (Low-Rank), tránh suy nghĩ quá phức tạp và tăng khả năng tổng quát hóa.”",
+    "h15": "Quy trình khai thác tự động",
+    "h16": "Cốt lõi của động cơ AMCC được xây dựng trên kiến trúc học tăng cường (RL). Dưới đây là đoạn mã cốt lõi thể hiện cách chúng tôi thực hiện khai thác yếu tố tự động:",
+    "h17": "Giá trị thực sự của ArcaneGPT",
+    "h18": "Bạn không cần viết một dòng logic giao dịch nào. Chỉ cần cung cấp dữ liệu (nến giá, chỉ số on-chain), ArcaneGPT sẽ không ngừng thử nghiệm các tổ hợp và trực tiếp mang đến cho bạn những công thức sinh lời nhất."
+  }
+}
+  

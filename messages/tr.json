@@ -1,0 +1,487 @@
+{
+  "Metadata": {
+    "stitle": "Kripto AI Kantitatif Alım Satım Platformu | AMCC",
+    "sdescription": "AMCC | Sıfır Ayarlı AI Kantitatif Trading | Tek Tıkla Otomatik Alım Satım",
+    "title": "AMCC | Sıfır Yapılandırmalı AI Kuantitatif Alım-Satım | Coinbase, Kraken, Binance ve Daha Fazlası için Tek Tıkla Otomatik Alım-Satım",
+    "description": "AMCC, AI Agent destekli bir kuant platformudur. API aracılığıyla Coinbase, Kraken, Binance ve daha fazlasına sorunsuz şekilde bağlanın. Yapay zekâmız, zincir üstü verileri ve Korku & Açgözlülük Endeksi’ni izleyerek 7/24 otomatik stratejiler yürütür. Varlıklarınız size ait, güvenli ve %100 zahmetsiz.",
+    "Keywords": "AI Kuantitatif Alım Satım, AMCC, Coinbase Trading Bot, Kraken Otomatik Alım Satım, Gemini API Bot, AI Agent Kripto, Zincir Üstü Analiz, Korku ve Açgözlülük Endeksi Stratejisi, Güvenli Kripto Otomasyonu"
+  },
+  "ErrMsg": {
+    "sign1": "Lütfen Hizmet Şartları ve Gizlilik Politikası’nı kabul edin",
+    "sign2": "Kayıt sırasında bir hata oluştu",
+    "sign3": "Beklenmeyen bir hata oluştu. Lütfen tekrar deneyin.",
+    "sign4": "Giriş sırasında bir hata oluştu",
+    "sign5": "E-posta veya şifre yanlış."
+  },
+  "PubDesc": {
+    "TSTB": "Daha Akıllı Düşün. Daha İyi İşlem Yap",
+    "HCKB": "Binance’te API Anahtarları Nasıl Oluşturulur?",
+    "HCKO": "OKX’te API Anahtarları Nasıl Oluşturulur?",
+    "back2home": "Ana Sayfaya Dön",
+    "FirstName": "Ad",
+    "LastName": "Soyad",
+    "EmailAddress": "E-posta Adresi",
+    "Password": "Şifre",
+    "ConfirmPassword": "Şifreyi Onayla",
+    "Welcome Back": "Tekrar Hoş Geldiniz",
+    "Sign In": "Giriş Yap",
+    "Sign Up": "Kayıt Ol",
+    "Success": "Başarılı",
+    "Failed": "Başarısız",
+    "Pending": "Beklemede",
+    "Refresh": "Yenileme başarılı",
+    "Saved": "Kaydetme başarılı",
+    "PrivatePlan": "Özel bir plan ihtiyacınız varsa, <purple>bizimle iletişime geçin</purple>.",
+    "Warring": "Dostça Hatırlatma",
+    "ChargeFinishMsg": "Transferi tamamladıysanız, sistemin bunu blok zincirinde doğrulaması gerekir. Lütfen 3–15 dakika bekleyin.",
+    "Confirmed": "Tamam",
+    "Cancel": "İptal",
+    "Confirm": "Onayla"
+  },
+  "Navbar": {
+    "Home": "Ana Sayfa",
+    "BTC Forecast": "BTC Tahmini",
+    "Top Rank": "Stratejiler",
+    "Pricing": "Fiyatlandırma",
+    "FAQ": "SSS",
+    "How It Works": "Nasıl Çalışır",
+    "Sign In": "Giriş Yap",
+    "Sign Up": "Kayıt Ol",
+    "PRODUCT": "ÜRÜN",
+    "COMPANY": "ŞİRKET",
+    "RESOURCES": "KAYNAKLAR",
+    "Terms of Service": "Hizmet Şartları",
+    "Privacy Policy": "Gizlilik Politikası",
+    "Contact Us": "Bize Ulaşın"
+  },
+  "Home": {
+    "AI-OPTIMIZED MODELS": "AI İLE OPTİMİZE EDİLMİŞ MODELLER",
+    "RISK-AWARE EXECUTION": "RİSK FARKINDALIĞI OLAN YÜRÜTME",
+    "LIVE ANALYTICS DASHBOARD": "CANLI ANALİTİK PANELİ",
+    "hero_title": "<teal>Saniyeler</teal> İçinde Kolay <purple>Kuant</purple> Alım-Satım — AI Destekli Kripto",
+    "hero_desc": "Kripto stratejilerini yapay zekâ destekli hassasiyetle tasarlayın, optimize edin ve uygulayın.",
+    "Start Trading Now": "Hemen İşlem Yapmaya Başla",
+    "HOT": "POPÜLER",
+    "Real-Time Execution": "Gerçek Zamanlı Yürütme",
+    "AI-Verified & Secure": "AI Doğrulamalı ve Güvenli",
+    "SeamlessConfiguration": "Sorunsuz Kurulum, Anında Başlangıç",
+    "Struggling": "<purple>Bu sorunlarla</purple> mı uğraşıyorsunuz?",
+    "ThatsWhy": "Bu yüzden {name}’i geliştirdik — Daha Akıllı İşlemlere Giden En Kısa Yolunuz",
+    "pt1": "Başlamak çok mu karmaşık?",
+    "pt1desc": "Daha akıllı işlem yapmak istiyor ama strateji kurmayı bilmiyor musunuz?",
+    "pt2": "Teknik terimlerde mi kayboldunuz?",
+    "pt2desc": "Göstergeler, API’ler ve backtest — kulağa karmaşık mı geliyor?",
+    "pt3": "Kime güveneceğinizi bilmiyor musunuz?",
+    "pt3desc": "AI modelleri, sinyaller veya influencer’lar — hangisi gerçekten işe yarıyor?",
+    "pt4": "Daha basit olmasını mı istiyorsunuz?",
+    "pt4desc": "Stratejilerinizi AI otomatik olarak tasarlasın, test etsin ve çalıştırsın.",
+    "Core Features": "Temel Özellikler",
+    "Simple": "Basit ve <purple>Şeffaf</purple> Fiyatlandırma",
+    "Get started instantly": "Anında başlayın — abone olun ve ilk kuant stratejinizi dakikalar içinde devreye alın.",
+    "Start trading smarter today": "Bugün daha akıllı işlem yapmaya başlayın.",
+    "Join early access": "AI ile optimize edilmiş stratejileri test etmek için erken erişime katılın.",
+    "Limited early access": "Binance kullanıcıları için sınırlı erken erişim.",
+    "feature": {
+      "title1": "AI Strateji Motoru",
+      "desc1": "Alım-satım stratejilerini otomatik olarak üretin ve optimize edin.",
+      "title2": "Akıllı Backtest",
+      "desc2": "Gerçek piyasa verileriyle performansı anında değerlendirin.",
+      "title3": "Tek Tıkla Yürütme",
+      "desc3": "Stratejileri sorunsuzca devreye alın ve çalıştırın — kodlama gerekmez.",
+      "title4": "Risksiz Öğrenme",
+      "desc4": "Geçmiş işlemlerinizi akıllıca analiz edip test ederek gelecekteki performansınızı artırın."
+    },
+    "earlybird": {
+      "new": "Yeni Kullanıcı Teklifi — Son ",
+      "subscription": " Günlük Abonelik — Şimdi ",
+      "save": "Tasarruf ",
+      "Early Access": "Erken Erişim — {count} Kullanıcı ile Sınırlı ",
+      "Join our early": "Erken erişim programımıza katılın ve AI alım-satım stratejilerine öncelikli erişim kazanın."
+    },
+    "how2use": {
+      "title": "Nasıl <purple>Kullanılır</purple>",
+      "unlock": "{name}’i Binance genelinde dört kolay adımda açın ",
+      "stepT1": "Bir plan seçin",
+      "stepD1": "AI destekli kuant stratejileri ve yürütme araçlarını açmak için size uygun aboneliği seçin.",
+      "stepT2": "CEX hesabınızı bağlayın",
+      "stepD2": "Canlı alım-satım ve veri senkronizasyonu için Binance hesabınızı API ile güvenle bağlayın.",
+      "stepT3": "Özel parametreler ayarlayın",
+      "stepD3": "Risk seviyelerini, işlem sıklığını ve pozisyon büyüklüğünü hedeflerinize göre ayarlayın.",
+      "stepT4": "Stratejinizi başlatın",
+      "stepD4": "AI ile optimize edilmiş bir modeli seçin ve tek tıkla başlatın — tamamen otomatik ve gerçek zamanlı izleme ile."
+    }
+  },
+  "Product": {
+    "Annual Return": "Yıllık Getiri",
+    "Duration (days)": "Süre (gün)",
+    "Max Drawdown": "Maksimum Düşüş",
+    "Win Rate": "Kazanma Oranı",
+    "Active": "Aktif",
+    "Pause": "Duraklat",
+    "Start": "Başlat",
+    "Fix": "Bakım",
+    "Switch Strategy": "Strateji Değiştir",
+    "Switch AI Agent": "AI Agent Değiştir",
+    "Switch CEX": "CEX Değiştir",
+    "Hot Strategies": "Temel Stratejiler",
+    "Mean Reversion": "Ortalamaya Dönüş",
+    "Breakout": "Kırılma",
+    "Reversal": "Tersine Dönüş",
+    "Box Consolidation": "Kutu Konsolidasyonu",
+    "Leverage": "Kaldıraç",
+    "Max USDT": "MAKS",
+    "Timeframe": "Zaman Dilimi",
+    "Unlock": "Kilidi Aç",
+    "Token": "TOKEN",
+    "Warining": "Önemli Uyarı ⚠️",
+    "CloseByself": "Stratejiyi duraklatırsanız, açık pozisyonlar manuel olarak yönetilmelidir.",
+    "spot": "Spot İşlem",
+    "futures": "Vadeli İşlemler"
+  },
+  "Plan": {
+    "New Account": "Yeni Hesap",
+    "Weekly": "Haftalık",
+    "Monthly": "Aylık",
+    "Quarterly": "Üç Aylık",
+    "Days": "Gün",
+    "Month": "Ay",
+    "Months": "Ay",
+    "Start Quarterly": "Üç Aylık Başlat",
+    "Start Monthly": "Aylık Başlat",
+    "Start Now": "Şimdi Başla",
+    "Perfect for exploring": "Keşfetmek için ideal",
+    "For regular traders": "Düzenli yatırımcılar için",
+    "Supports Binance & OKX exchanges": "Binance borsasını destekler",
+    "Built-in trading strategies ready to use": "Kullanıma hazır yerleşik işlem stratejileri",
+    "One-click start with auto configuration": "Otomatik yapılandırma ile tek tıkla başlatma"
+  },
+  "forecast": {
+    "f1": "Kripto Piyasa İçgörüleri",
+    "f2": "Son Güncelleme ",
+    "f3": "Veri Kaynağı:",
+    "f4": "Aralık:",
+    "f5": "Yukarı Yönlü Olasılık (Önümüzdeki 24s)",
+    "f6": "Modelin, 24 saat sonra fiyatın son bilinen fiyattan daha yüksek olacağına dair güven düzeyi.",
+    "f7": "Volatilite Artışı (Önümüzdeki 24s)",
+    "f8": "Önümüzdeki 24 saat için tahmin edilen volatilitenin, son geçmiş volatiliteyi aşma olasılığı.",
+    "f9": "Veriler yalnızca bilgilendirme amaçlıdır. Yatırım tavsiyesi değildir."
+  },
+  "sign": {
+    "start": "Başlamak %100 Ücretsiz",
+    "StartTrading": "AI Trading’e Başla",
+    "Join": "{name} üzerinde binlerce yatırımcıya katıl — fazla zaman ve çaba harcamadan kolayca işlem yap.",
+    "Create Your Account": "Hesabını Oluştur",
+    "Starttoday": "Risk içermeyen forex işlem yolculuğuna bugün başla",
+    "Iagree": "Kabul ediyorum:",
+    "TermsofService": "Hizmet Şartları",
+    "PrivacyPolicy": "Gizlilik Politikası",
+    "AccountCsuccessfully": "Hesap başarıyla oluşturuldu! Giriş sayfasına yönlendiriliyorsunuz...",
+    "CreatingAccount": "Hesap Oluşturuluyor...",
+    "AccountCreated": "Hesap Oluşturuldu!",
+    "CreateAccount&StartTrading": "Hesap Oluştur ve İşleme Başla",
+    "Or sign up with": "Veya şununla kayıt ol",
+    "AlreadyHaveAccount": "Zaten bir hesabınız var mı?",
+    "SignHere": "Buradan giriş yap",
+    "and": "ve",
+    "Continue your AI trading journey with": "AI trading yolculuğuna devam et:",
+    "in": {
+      "t1": "İşlem paneline anında eriş",
+      "t2": "Mevcut işlemlerine ve pozisyonlarına devam et",
+      "t3": "Gelişmiş şifreleme ile güvenli hesap",
+      "t4": "İşlem paneline erişmek için bilgilerini gir",
+      "t5": "Beni hatırla",
+      "t6": "Şifremi unuttum?",
+      "t7": "Giriş başarılı! Panele yönlendiriliyorsunuz...",
+      "t9": "Giriş Yapılıyor...",
+      "t10": "Giriş Yapıldı!",
+      "t11": "Veya şununla devam et",
+      "t12": "Hesabın yok mu?",
+      "t13": "Ücretsiz kayıt ol"
+    },
+    "up": {
+      "t1": "Lütfen geçerli bir e-posta adresi girin",
+      "t2": "Şifre en az 6 karakter olmalıdır",
+      "t3": "Şifreler eşleşmiyor",
+      "t4": "Güncelleme başarılı, lütfen tekrar giriş yapın.",
+      "t5": "Şifre güncellenemedi",
+      "t6": "Şifreyi Değiştir",
+      "t7": "Mevcut Şifre",
+      "t8": "Yeni Şifre",
+      "t9": "Yeni Şifreyi Onayla",
+      "t10": "İptal",
+      "t11": "Onayla"
+    }
+  },
+  "User": {
+    "Menu": {
+      "Dashboard": "Gösterge Paneli",
+      "Profile": "Profil",
+      "Subscriptions": "Abonelikler",
+      "Strategy Market": "Strateji Pazarı",
+      "API Tokens": "API Anahtarları",
+      "Notifications": "Bildirimler"
+    },
+    "Dashboard": {
+      "a1": "Şu anda çalışan bir strateji yok.",
+      "a2": "Bir strateji seçin ve otomatik işlemlerinize hemen başlayın.",
+      "a3": "Strateji Seç"
+    },
+    "ApiToken": {
+      "a1": "API Anahtarları",
+      "a2": "{name} API Yapılandırması",
+      "a3": "İşlemleri ve veri senkronizasyonunu etkinleştirmek için {name} API bilgilerinizi girin.",
+      "a4": "API Anahtarı",
+      "a5": "Gizli Anahtar",
+      "a6": "Parola",
+      "a7": "Kaydet",
+      "a8": "Lütfen Para Çekme izninin devre dışı bırakıldığından emin olun.",
+      "a9": "Spot ve vadeli işlem izinleri etkinleştirilmelidir",
+      "a10": "API yapılandırması gereklidir",
+      "a11": "Bu stratejiyi etkinleştirmeden önce borsa API anahtarını yapılandırmanız gerekir. Spot ve vadeli işlem izinlerinin etkin olduğundan emin olun. Para çekme izni gerekli değildir."
+    },
+    "Info": {
+      "i1": "Profil",
+      "i2": "Katılım Tarihi",
+      "i3": "Mevcut Plan",
+      "i4": "Aktif abonelik detaylarınız",
+      "i5": "Bitiş Tarihi",
+      "i6": "Yükselt",
+      "i7": "Hesap Güvenliği",
+      "i8": "Şifre Değiştir",
+      "i9": "2FA Etkinleştir",
+      "i10": "Hesabı Sil",
+      "i11": "Çıkış Yap",
+      "i12": "Fiyat",
+      "e1": "Şu anda aktif bir abonelik yok.",
+      "e2": "Bir plan seçin ve akıllı nicel işlemlere hemen başlayın.",
+      "e3": "Şimdi Abone Ol"
+    },
+    "Notification": {
+      "n1": "Bildirim Ayarları",
+      "n2": "Bildirimleri Yönet",
+      "n3": "Hangi güncellemeleri ve uyarıları almak istediğinizi seçin.",
+      "n4": "İşlem Uyarıları",
+      "n5": "Stratejiniz sinyal ürettiğinde gerçek zamanlı bildirimler alın.",
+      "n6": "Abonelik Bitişi",
+      "n7": "Planınızın süresi dolmadan önce hatırlatmalar alın.",
+      "n8": "Sistem Güncellemeleri",
+      "n9": "Önemli sistem ve bakım duyurularını alın.",
+      "n10": "Pazarlama E-postaları",
+      "n11": "Promosyonlara ve yeni strateji yayınlarına erken erişim elde edin."
+    },
+    "Subscriptions": {
+      "s1": "Fırsatı kaçırmayın — şimdi yükseltin ve getirilerinizi en üst düzeye çıkarın!",
+      "s2": "Faturalandırma Geçmişi",
+      "s3": "Durum 15 dakika içinde güncellenmezse, lütfen kayıtlı e-posta adresinizle <purple>bize ulaşın</purple>.",
+      "colum1": "Tarih",
+      "colum2": "Plan",
+      "colum3": "Tutar",
+      "colum4": "Durum",
+      "recharge1": "Ödemeyi tamamladım",
+      "Total": "Toplam",
+      "Discount": "İndirim",
+      "Amount": "Tutar",
+      "Address:": "Adres:",
+      "Network:": "Ağ:",
+      "Time Left:": "Kalan Süre:",
+      "Payment": "Ödeme",
+      "Copied": "Başarıyla kopyalandı"
+    }
+  },
+  "Privacy": {
+    "title": "Gizlilik Politikası",
+    "lastUpdated": "Son Güncelleme",
+    "sections": {
+      "service": {
+        "title": "1. Hizmet Genel Bakışı",
+        "paragraphs": [
+          "Kullanıcılar tarafından yetkilendirilen borsa API’leri aracılığıyla yapay zeka destekli otomatik vadeli işlem stratejileri sunan bağımsız bir üçüncü taraf teknoloji hizmet sağlayıcısıyız."
+        ],
+        "list": [
+          "Bir borsa, aracı kurum veya saklama kuruluşu değiliz",
+          "Kullanıcı fonlarını tutmayız veya kontrol etmeyiz",
+          "Tüm işlemler üçüncü taraf borsalar üzerinde gerçekleştirilir",
+          "Yalnızca vadeli işlemler / türev işlemler desteklenmektedir"
+        ]
+      },
+      "information": {
+        "title": "2. Topladığımız Bilgiler",
+        "subSections": [
+          {
+            "label": "Hesap Bilgileri",
+            "list": [
+              "E-posta adresi",
+              "Hesap Kimliği",
+              "Abonelik durumu"
+            ]
+          },
+          {
+            "label": "Toplamadığımız bilgiler:",
+            "list": [
+              "Devlet tarafından verilmiş kimlik belgeleri",
+              "KYC veya biyometrik veriler",
+              "Doğum tarihi veya adres"
+            ]
+          }
+        ]
+      },
+      "api": {
+        "title": "3. Borsa API Verileri",
+        "list": [
+          "Borsa adı",
+          "API anahtarı ve gizli anahtar (şifrelenmiş)",
+          "Yalnızca okuma ve işlem yetkileri"
+        ],
+        "paragraphs": [
+          "Para çekme yetkileri talep edilmez veya desteklenmez."
+        ]
+      },
+      "ai": {
+        "title": "4. Otomatik Alım-Satım ve Yapay Zeka Kararları",
+        "list": [
+          "Tüm alım-satım kararları yapay zeka modelleri tarafından alınır",
+          "İşlem yürütme sürecinde insan müdahalesi yoktur",
+          "Kopya alım-satım veya sosyal alım-satım yoktur",
+          "Yatırım tavsiyesi sunulmaz"
+        ]
+      },
+      "usage": {
+        "title": "5. Veri Kullanımı",
+        "list": [
+          "Platformun işletilmesi ve sürdürülmesi",
+          "Abone olunan stratejilerin yürütülmesi",
+          "Güvenlik izleme ve kötüye kullanımın önlenmesi",
+          "Abonelik yönetimi"
+        ]
+      },
+      "security": {
+        "title": "6. Veri Güvenliği",
+        "list": [
+          "Hassas verilerin şifreli olarak saklanması",
+          "TLS ile şifrelenmiş veri iletimi",
+          "Sıkı dahili erişim kontrolleri"
+        ]
+      },
+      "risk": {
+        "title": "7. Risk Bildirimi",
+        "list": [
+          "Vadeli işlemler yüksek risk içerir",
+          "Kaldıraç hızlı kayıplara yol açabilir",
+          "Yapay zeka stratejileri başarısız olabilir",
+          "Geçmiş performans gelecekteki sonuçların göstergesi değildir"
+        ]
+      },
+      "responsibility": {
+        "title": "8. Kullanıcı Sorumlulukları",
+        "list": [
+          "API anahtarlarınızı yönetmek ve güvenliğini sağlamak",
+          "Uygun izinleri ayarlamak",
+          "API erişimini istediğiniz zaman iptal etmek"
+        ]
+      },
+      "retention": {
+        "title": "9. Veri Saklama",
+        "paragraphs": [
+          "Veriler yalnızca hizmetleri sağlamak veya yasal yükümlülüklere uymak için gerekli olduğu sürece saklanır."
+        ]
+      },
+      "children": {
+        "title": "10. Çocukların Gizliliği",
+        "paragraphs": [
+          "Bu hizmet 18 yaşın altındaki bireyler için tasarlanmamıştır."
+        ]
+      },
+      "updates": {
+        "title": "11. Politika Güncellemeleri",
+        "paragraphs": [
+          "Bu Gizlilik Politikasını zaman zaman güncelleyebiliriz. Hizmetin kullanılmaya devam edilmesi, güncellemelerin kabul edildiği anlamına gelir."
+        ]
+      },
+      "contact": {
+        "title": "12. İletişim",
+        "emailLabel": "E-posta"
+      }
+    }
+  },
+  "Terms": {
+    "title": "Kullanım Şartları",
+    "lastUpdated": "Son Güncelleme",
+    "sections": {
+      "acceptance": {
+        "title": "1. Şartların Kabulü",
+        "content": "Web sitemize, ürünlerimize veya hizmetlerimize (“Hizmetler”) erişerek veya bunları kullanarak, bu Kullanım Şartları’nı ve geçerli tüm yasa ve düzenlemeleri kabul etmiş olursunuz. Bu şartları kabul etmiyorsanız lütfen Hizmetlerimizi kullanmayın."
+      },
+      "usage": {
+        "title": "2. Hizmetlerimizin Kullanımı",
+        "content": "Hizmetlerimizi yalnızca yasal amaçlarla ve bu Şartlar’a uygun şekilde kullanmayı kabul edersiniz. Kullanımınızın geçerli tüm yasalara uygun olmasını ve başkalarının haklarını ihlal etmemesini sağlamak sizin sorumluluğunuzdadır.",
+        "list": [
+          "Yetkisiz olarak sistemlere veya verilere erişmeye çalışmayın.",
+          "Hizmetlerimize zarar verebilecek, devre dışı bırakabilecek veya hizmetleri aksatabilecek faaliyetlerde bulunmayın.",
+          "Hizmetlerimizi herhangi bir dolandırıcılık veya kötü niyetli amaç için kullanmayın."
+        ]
+      },
+      "account": {
+        "title": "3. Hesaplar ve Güvenlik",
+        "content": "Hesap bilgilerinizin gizliliğini korumaktan ve hesabınız altında gerçekleştirilen tüm faaliyetlerden siz sorumlusunuz. Hesabınızın yetkisiz kullanımından şüpheleniyorsanız derhal bize bildiriniz."
+      },
+      "subscription": {
+        "title": "4. Abonelik ve Ödemeler",
+        "content": "Ücretli özelliklere abone olmanız halinde, doğru ödeme bilgileri sağlamayı ve ödeme yönteminizden ücret tahsil edilmesine izin vermeyi kabul edersiniz. Yasal olarak gerekli olmadıkça abonelik ücretleri iade edilmez."
+      },
+      "ip": {
+        "title": "5. Fikri Mülkiyet",
+        "content": "Hizmetlerimiz aracılığıyla sunulan tüm içerik, ticari markalar ve materyaller bize aittir veya lisanslıdır. Önceden yazılı izin almadan içeriğin herhangi bir bölümünü kopyalayamaz, çoğaltamaz veya dağıtamazsınız."
+      },
+      "disclaimer": {
+        "title": "6. Garanti Reddi",
+        "content": "Hizmetlerimiz “olduğu gibi” ve “mevcut olduğu şekilde” sunulmaktadır ve herhangi bir garanti verilmemektedir. Güvenilirlik, erişilebilirlik veya belirli bir amaca uygunluk konusunda hiçbir garanti vermiyoruz."
+      },
+      "liability": {
+        "title": "7. Sorumluluğun Sınırlandırılması",
+        "content": "Yasanın izin verdiği azami ölçüde, Hizmetlerimizi kullanmanızdan kaynaklanan dolaylı, arızi veya sonuç olarak ortaya çıkan zararlardan, bu tür zararların olasılığı tarafımıza bildirilmiş olsa bile, sorumlu olmayız."
+      },
+      "termination": {
+        "title": "8. Fesih",
+        "content": "Bu Şartlar’ın veya geçerli yasaların ihlali durumunda, önceden bildirimde bulunmaksızın ve kendi takdirimize bağlı olarak Hizmetlere erişiminizi askıya alma veya sonlandırma hakkını saklı tutarız."
+      },
+      "law": {
+        "title": "9. Uygulanacak Hukuk",
+        "content": "Bu Şartlar, Hong Kong Özel İdari Bölgesi yasalarına tabi olacak ve bu yasalara göre yorumlanacaktır. Her türlü uyuşmazlık, münhasıran Hong Kong’da bulunan yetkili mahkemelerde çözümlenecektir."
+      },
+      "changes": {
+        "title": "10. Şartlarda Değişiklikler",
+        "content": "Kullanım Şartları’nı dilediğimiz zaman değiştirebiliriz. Güncellemeler, yeni bir “Son Güncelleme” tarihi ile bu sayfada yayımlanacaktır. Hizmetlerimizi kullanmaya devam etmeniz, güncellenmiş şartları kabul ettiğiniz anlamına gelir."
+      },
+      "contact": {
+        "title": "11. İletişim",
+        "emailLabel": "E-posta"
+      }
+    }
+  },
+  "HowItWorks": {
+    "start": "Başlayın",
+    "tag": "Derinlemesine Teknoloji",
+    "tt": "ArcaneGPT: Yapay Zeka ile Kripto Nicel Faktör Madenciliğinin Otomasyonu | AMCC",
+    "td": "AMCC’in ArcaneGPT ve Düşük Dereceli Bozunum (LoRD) düzenlileştirmesini kullanarak aşırı uyumu nasıl aştığını ve yüksek performanslı kripto alım-satım stratejilerini otomatik olarak nasıl ürettiğini keşfedin.",
+    "jsonLdH": "ArcaneGPT: Yeni Nesil Yapay Zeka Nicel Faktör Madenciliği Motoru",
+    "jsonLdD": "AMCC, otomatik kripto alım-satım stratejisi üretiminde yeni nesil teknolojiyi tanıtıyor.",
+    "h1": "Alım-Satım Formüllerini Otomatik Olarak ‘İcat Eden’ Bir Yapay Zeka",
+    "h2": "Aşırı uyum bariyerini aşmak: AMCC, yeni nesil otomatik Meme coin alım-satım stratejisi üretimini tanıtıyor.",
+    "h3": "ArcaneGPT Nasıl Çalışır?",
+    "h4": "Nicel göstergelerde uzmanlaşmış dahi bir stajyer işe aldığınızı hayal edin. Her gün binlerce matematiksel formül yazar. Hangilerinin kârlı olduğunu test eder ve sonuçlara göre gelecekteki optimizasyonu yönlendirirsiniz.",
+    "h5": "Beyin (ArcaneGPT)",
+    "h6": "Yaratıcı keşiften sorumludur. Metin yerine, insanların asla düşünemeyeceği karmaşık göstergelere dönüşen talimat token’ları üretir.",
+    "h7": "Eller (Stack)",
+    "h8": "Uygulamadan sorumludur. Üretilen formülleri gerçek zamanlı kripto piyasa verilerine uygulayarak uygulanabilir işlem sinyalleri hesaplar.",
+    "h9": "Hakem (JD)",
+    "h10": "Değerlendirmeden sorumludur. Kârlı formüller “Yeni Kral” ilan edilirken, hatalı veya zarar edenler elenir.",
+    "h11": "LoRD (Düşük Dereceli Bozunum) Düzenlileştirmesi",
+    "h12": "Yapay Zeka Tarafından Üretilen Stratejiler Neden Sıkça Başarısız Olur?",
+    "h13": "En yaygın sorun aşırı uyumdur — yapay zeka geçmiş verilerdeki gürültüyü ezberleme eğilimindedir. Stratejiler geri testlerde mükemmel görünür ancak canlı işlemlerde başarısız olur.",
+    "h14": "“LoRD, yapay zekanın beynini diyete sokmak gibidir. Düşük dereceli matrisleri zorlayarak aşırı düşünmeyi önler ve genelleme yeteneğini artırır.”",
+    "h15": "Otomatik Faktör Madenciliği İş Akışı",
+    "h16": "AMCC motoru, pekiştirmeli öğrenme (RL) mimarisi üzerine inşa edilmiştir. Aşağıda, otomatik faktör madenciliği sürecimizi gösteren temel bir kod parçası yer almaktadır:",
+    "h17": "ArcaneGPT’nin Gerçek Değeri",
+    "h18": "Tek bir satır bile işlem mantığı yazmanız gerekmez. Sadece verileri (mum grafikler, zincir üstü metrikler) sağlayın; ArcaneGPT durmaksızın kombinasyonları keşfeder ve en kârlı formülleri doğrudan size sunar."
+  }
+}
